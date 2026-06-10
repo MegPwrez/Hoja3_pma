@@ -11,7 +11,7 @@ public class Pma_3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola mundo, soy Gregory.");
+        System.out.println("Hola mundo; Soy Gregory");
         
         // TODO code application logic here
     }
